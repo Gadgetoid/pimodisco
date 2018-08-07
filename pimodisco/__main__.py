@@ -21,13 +21,8 @@ description="""
 """
 
 extensions = [
-    'pimodisco.filter',
-    'pimodisco.checks',
     'pimodisco.commands',
-    'pimodisco.github',
-    'pimodisco.pinout',
-    'pimodisco.product',
-    'pimodisco.youtube',
+    'pimodisco.gg'
 ]
 
 
